@@ -35,7 +35,7 @@ export default function HomeScreen() {
         source={{ uri: selectedChatFaceData.image }}
         style={{ width: 150, height: 150, marginTop: 20 }}
       />
-      <Text style={{ fontSize: 25, marginTop: 30 }}>How can i have you</Text>
+      <Text style={{ fontSize: 25, marginTop: 30 }}>How can I have you</Text>
       <View
         style={{
           marginTop: 20,
